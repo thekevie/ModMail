@@ -1,6 +1,5 @@
-
-<p align="center" style="font-size:70px">
-    <strong>ModMail</strong>
+<p align="center" >
+    <p1 style=";font-size:75px;"><strong>ModMail</strong>
 </p>
 
 <div align="center">
