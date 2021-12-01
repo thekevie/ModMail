@@ -1,11 +1,11 @@
 
-<p align="center" style="color:white;font-size:70px;">
+<p align="center" style="font-size:70px">
     <strong>ModMail</strong>
 </p>
 
 <div align="center">
 
-<a href="">
+<a href="#">
     <img src="https://img.shields.io/docker/v/Kevify/ModMail?style=for-the-badge">
 </a>
 
