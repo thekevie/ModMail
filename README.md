@@ -1,10 +1,7 @@
-<p align="center" >
-    <p1 style=";font-size:75px;"><strong>ModMail</strong>
-</p>
+# ModMail
 
-<div align="center">
 
-<a href="#">
+<a href="">
     <img src="https://img.shields.io/docker/v/Kevify/ModMail?style=for-the-badge">
 </a>
 
@@ -19,7 +16,6 @@
 <a href="">
     <img src="https://img.shields.io/github/pipenv/locked/python-version/kevify/modmail?label=Made%20With&logo=Python&style=for-the-badge">
 </a>
-</div>
 
 
 # How to setup?
