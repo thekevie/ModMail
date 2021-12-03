@@ -1,0 +1,9 @@
+[tool.poetry]
+name = 'ModMail'
+version = '0.1.0'
+description = "A Modmail code for your server"
+authors = ['Kevys']
+readme = 'README.md'
+repository = 'https://github.com/kevys/modmail'
+homepage = 'https://github.com/kevys/modmail'
+keywords = ['discord', 'discord-py', 'python', 'modmail']
