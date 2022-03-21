@@ -1,11 +1,9 @@
 {
-  "token": "",
-  "owners": [],
-  "prefix": "=",
-  "status": "DM Me for Support",
-  "Guild": 123,
-  "OpenCategory": "support",
-  "ClosedCategory": "closed",
-  "footer": "Message me for support",
-  "Ping": []
+    "token": "",
+    "prefix": "=",
+    "status": "DM Me for Support",
+    "guild": 1234567890,
+    "category": 1234567890,
+    "footer": "Message me for support",
+    "ping": []
 }
